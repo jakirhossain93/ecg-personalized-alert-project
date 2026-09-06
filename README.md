@@ -70,7 +70,7 @@ These thresholds are research-defined experimental categories and are not clinic
 ## Project Folders
 
 - results/ - model metrics, predictions, and alert summary
-- figures/ - ROC, PR, confusion matrices, and alert distribution
+- results/figures/ - ROC, PR, confusion matrices, and alert distribution
 - notebooks/ - experiment notebook
 - src/ - reusable project code
 - tests/ - project tests
